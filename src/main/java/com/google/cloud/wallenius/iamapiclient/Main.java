@@ -23,7 +23,7 @@ import java.io.IOException;
  */
 public class Main {
 
-    private static final String PROJECT_ID = "google.com:discoproject";
+    private static final String PROJECT_ID = "INSERT YOUR PROJECT ID HERE";
     private static Cloudresourcemanager crmClient = null;
 
     public static void main(String[] args) throws IOException {
